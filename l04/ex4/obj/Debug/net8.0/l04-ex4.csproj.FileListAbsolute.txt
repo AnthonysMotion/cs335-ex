@@ -1,0 +1,14 @@
+C:\Users\antht\l04-ex4\bin\Debug\net8.0\l04-ex4.exe
+C:\Users\antht\l04-ex4\bin\Debug\net8.0\l04-ex4.deps.json
+C:\Users\antht\l04-ex4\bin\Debug\net8.0\l04-ex4.runtimeconfig.json
+C:\Users\antht\l04-ex4\bin\Debug\net8.0\l04-ex4.dll
+C:\Users\antht\l04-ex4\bin\Debug\net8.0\l04-ex4.pdb
+C:\Users\antht\l04-ex4\obj\Debug\net8.0\l04-ex4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antht\l04-ex4\obj\Debug\net8.0\l04-ex4.AssemblyInfoInputs.cache
+C:\Users\antht\l04-ex4\obj\Debug\net8.0\l04-ex4.AssemblyInfo.cs
+C:\Users\antht\l04-ex4\obj\Debug\net8.0\l04-ex4.csproj.CoreCompileInputs.cache
+C:\Users\antht\l04-ex4\obj\Debug\net8.0\l04-ex4.dll
+C:\Users\antht\l04-ex4\obj\Debug\net8.0\refint\l04-ex4.dll
+C:\Users\antht\l04-ex4\obj\Debug\net8.0\l04-ex4.pdb
+C:\Users\antht\l04-ex4\obj\Debug\net8.0\l04-ex4.genruntimeconfig.cache
+C:\Users\antht\l04-ex4\obj\Debug\net8.0\ref\l04-ex4.dll
