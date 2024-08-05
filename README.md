@@ -16,4 +16,4 @@ dotnet add package Microsoft.EntityFrameworkCore.Tools<br>
 dotnet add package Microsoft.EntityFrameworkCore.Design<br>
 
 dotnet ef migrations add InitialCreate<br>
-dotnet ef datebase update<br>
+dotnet ef database update<br>
