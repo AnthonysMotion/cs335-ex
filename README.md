@@ -8,12 +8,12 @@ lecture exercises
 
 --
 
-dotnet new console --use-program-main --name name
-dotnet tool install --global dotnet-ef
-dotnet tool update --global dotnet-ef
-dotnet add package Microsoft.EntityFrameworkCore.Sqlite
-dotnet add package Microsoft.EntityFrameworkCore.Tools
-dotnet add package Microsoft.EntityFrameworkCore.Design
+dotnet new console --use-program-main --name name<br>
+dotnet tool install --global dotnet-ef<br>
+dotnet tool update --global dotnet-ef<br>
+dotnet add package Microsoft.EntityFrameworkCore.Sqlite<br>
+dotnet add package Microsoft.EntityFrameworkCore.Tools<br>
+dotnet add package Microsoft.EntityFrameworkCore.Design<br>
 
-dotnet ef migrations add InitialCreate
-dotnet ef datebase update
+dotnet ef migrations add InitialCreate<br>
+dotnet ef datebase update<br>
