@@ -8,10 +8,6 @@ lecture exercises
 
 --
 
-l06-ex02 work in progress
-
---
-
 dotnet new console --use-program-main --name name<br>
 dotnet tool install --global dotnet-ef<br>
 dotnet tool update --global dotnet-ef<br>
